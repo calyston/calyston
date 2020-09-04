@@ -15,4 +15,4 @@
 <img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Wordpress" width="34px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG68.png" />
-<img align="left" alt="PHP" width="34px" src="https://pngimg.com/uploads/php/php_PNG45.png" /> 
+<img align="left" alt="PHP" width="26px" src="https://pngimg.com/uploads/php/php_PNG45.png" /> 
