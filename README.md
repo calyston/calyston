@@ -2,9 +2,9 @@
 
 📚 I am currently learning React, as well as constantly brushing up on my existing skills.
 <br/><br/>
-🔮 In the future I would like to learn UX and UI design, so that I can both design and build beautiful websites!
+🔮 I plan on learning UX and UI design in the near future, so that I can both design and build beautiful websites.
 <br/><br/>
-🌞 Fun Fact: I love travelling across the world, learning languages and experiencing different cultures 🌎🌍🌏
+🌞 A little about me: I love travelling across the world, learning languages and experiencing different cultures 🌎🌍🌏
 
 ## Languages I work with:
 
