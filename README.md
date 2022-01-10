@@ -1,4 +1,4 @@
-### Hello, my name is Christine and I'm a Front-End Developer and UX/UI Designer 🌞
+### Hello, my name is Christine and I'm a Front-End Developer 🌞
 
 ### Languages and Tools I work with:
 
