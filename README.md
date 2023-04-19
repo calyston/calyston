@@ -31,12 +31,6 @@ I'm a passionate web developer and UX/UI designer with experience in React, Sass
 
 **Bandai Namco Store** is a **responsive ecommerce website** designed with **Figma** and built with **React and Sass**. This project demonstrates my ability to **redesign an existing website using UX and UI methodologies and build a live prototype of my design**. You can check out the repository [here](https://github.com/calyston/bandai-namco-store).
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
 ## Get in Touch 📬
 - https://christinelyston.co.uk/
 - https://www.behance.net/christinelyston
