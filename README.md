@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Hi+there%2C+I'm+Christine!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## About Me 🚀
+## About Me ♒
 
 I'm a passionate web developer and UX/UI designer with experience in React, Sass, and Figma. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
