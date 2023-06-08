@@ -31,5 +31,4 @@ I'm a passionate web developer and UX/UI designer with experience in React, Sass
 
 ## Get in Touch 📬
 - https://christinelyston.co.uk/
-- https://www.behance.net/christinelyston
 - https://www.linkedin.com/in/christine-lyston/
